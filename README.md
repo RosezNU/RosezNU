@@ -1,4 +1,5 @@
-## Hi there 👋 testing 123
+## Hi there 👋 My name is Rose, nice to meet you.
+
 
 <!--
 **RosezNU/RosezNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
